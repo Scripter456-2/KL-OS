@@ -1,3 +1,4 @@
 chmod +x build-klos.sh
 ./build-klos.sh
 ./run-vbox.sh
+sudo apt install qemu-system-x86(required if you are a dev)
