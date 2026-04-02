@@ -1,5 +1,0 @@
-chmod +x build-klos.sh
-./build-klos.sh
-./run-vbox.sh
-sudo apt install qemu-system-x86(required if you are a dev)
-qemu-system-x86_64 -m 2048 -cdrom KL_OS.iso(required if you are a dev and required to start OS)
